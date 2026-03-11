@@ -1,3 +1,5 @@
+</> Markdown
+![Banner](banner.png)
 ⭐ Sukhendra Patel
 
 Data Analyst | Python Automation | Web Scraping
