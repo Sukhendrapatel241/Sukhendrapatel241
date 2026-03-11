@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](Banner1.png)
 ⭐ Sukhendra Patel
 
 Data Analyst | Python Automation | Web Scraping
