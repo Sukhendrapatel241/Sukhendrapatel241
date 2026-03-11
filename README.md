@@ -1,4 +1,3 @@
-</> Markdown
 ![Banner](banner.png)
 ⭐ Sukhendra Patel
 
